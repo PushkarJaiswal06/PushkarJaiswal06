@@ -135,21 +135,9 @@ fun_fact: "I debug code faster than my life decisions 😄"
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PushkarJaiswal06&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PushkarJaiswal06&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PushkarJaiswal06&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PushkarJaiswal06&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
-</p>
 
 ---
 

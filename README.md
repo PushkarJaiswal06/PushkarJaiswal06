@@ -1,27 +1,92 @@
-<h1 align="center">Hi 👋, I'm Pushkar Jaiswal</h1>
-<h3 align="center">A Passionate Software Developer | Problem Solver | Tech Enthusiast</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome!&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
+</div>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="60%" valign="top">
+
+# � Hi, I'm **Pushkar Jaiswal**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&width=500&lines=Full+Stack+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9;Tech+Enthusiast+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%8C%9F;Always+Learning+%26+Growing+%F0%9F%93%88" alt="Typing SVG" />
+
+### 🚀 Full-Stack Developer | Building Scalable Solutions
+
+> *Passionate about crafting elegant code and solving complex problems*
+
+<br/>
+
+### 🎯 **About Me**
+
+```yaml
+name: Pushkar Jaiswal
+role: Full-Stack Developer
+location: India
+current_focus: 
+  - Building scalable web applications
+  - Exploring cloud technologies
+  - Contributing to open source
+learning: 
+  - Advanced System Design
+  - Kubernetes & DevOps
+  - AI/ML Integration
+collaboration: "Always open to innovative projects!"
+fun_fact: "I debug code faster than my life decisions 😄"
+```
+
+<br/>
+
+### 🤝 **Let's Connect**
+
+<p>
+  <a href="https://www.linkedin.com/in/pushkar-jaiswal06/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://pushkarjaiswal.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/PushkarJaiswal06" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://leetcode.com/pushkarjaiswal" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+</p>
+
+<p>
+  <a href="mailto:pushkarbst90@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.instagram.com/pushkar_j.06" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://twitter.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</p>
+
+</td>
+<td width="40%" valign="top">
+
+<br/><br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://camo.githubusercontent.com/d1e9733ec79822bcadf8b9a1035840ee511e2f022fe9f652cc163db23dc171d3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="380" alt="Coding GIF"/>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PushkarJaiswal06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="100%"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pushkar-jaiswal06/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:pushkarbst90@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.instagram.com/pushkar_j.06" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://pushkarjaiswal.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PushkarJaiswal06&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/>
 </p>
 
----
-
-## 🚀 About Me
-
-- 💼 **Currently Working On:** Building scalable web applications and exploring cloud technologies
-- 🌱 **Currently Learning:** Advanced System Design, Kubernetes, and AI/ML
-- 👯 **Open to Collaborate On:** Open-source projects and innovative tech solutions
-- 💬 **Ask Me About:** Web Development, Data Structures, Algorithms, and Software Architecture
-- 📫 **Reach Me At:** pushkarbst90@gmail.com
-- ⚡ **Fun Fact:** I debug code faster than I debug my life decisions!
+</td>
+</tr>
+</table>
 
 ---
 
@@ -88,25 +153,257 @@
 
 ---
 
-## � Featured Projects
+## 🚀 Featured Projects
 
-### [Project Name 1](https://github.com/PushkarJaiswal06/project-1)
-**Tech Stack:** React, Node.js, MongoDB, AWS  
-🔹 Description of your amazing project and its impact  
-🔹 Key features and achievements  
-⭐ **Stars:** 50+ | **Forks:** 20+
+<div align="center">
 
-### [Project Name 2](https://github.com/PushkarJaiswal06/project-2)
-**Tech Stack:** Python, Django, PostgreSQL, Docker  
-🔹 Description of your amazing project and its impact  
-🔹 Key features and achievements  
-⭐ **Stars:** 40+ | **Forks:** 15+
+### 🌟 Spotlight Project
 
-### [Project Name 3](https://github.com/PushkarJaiswal06/project-3)
-**Tech Stack:** TypeScript, Next.js, Firebase, Tailwind CSS  
-🔹 Description of your amazing project and its impact  
-🔹 Key features and achievements  
-⭐ **Stars:** 30+ | **Forks:** 10+
+</div>
+
+<table>
+<tr>
+<td width="40%" valign="top">
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🏆_FEATURED-Social_Verse-0080ff?style=for-the-badge" />
+</p>
+
+## 🎮 Social Verse
+
+*A real-time 2D multiplayer social platform for universities and communities*
+
+<br/>
+
+**🔗 Links**
+<p align="center">
+<a href="https://social-verse-frontend.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-FF6B6B?style=for-the-badge" />
+</a>
+<a href="https://github.com/PushkarJaiswal06/Social_Verse" target="_blank">
+<img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github" />
+</a>
+</p>
+
+**💻 Tech Stack**
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Phaser-6E39CC?style=for-the-badge&logo=phaser&logoColor=white" />
+<img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
+</p>
+
+</td>
+<td width="60%" valign="top">
+
+<br/><br/>
+
+**✨ Key Features**
+
+🎥 **Proximity-Based Video Chat**
+- Real-time video communication triggered by player proximity
+- Seamless WebRTC integration for low-latency calls
+
+🕹️ **Interactive 2D World**
+- Phaser-powered game engine for smooth character movements
+- Multiple interactive zones and collaborative spaces
+- Custom avatar system with real-time synchronization
+
+⚡ **Multiplayer Architecture**
+- Colyseus state management for multiplayer sync
+- Handles 100+ concurrent users per room
+- Optimized network protocol for minimal latency
+
+🎨 **Modern Design**
+- Pixel-perfect UI/UX design
+- Responsive across all devices
+- Dark/Light theme support
+
+🔐 **Secure & Scalable**
+- JWT-based authentication
+- MongoDB for persistent data storage
+- Scalable microservices architecture
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 💎 More Amazing Projects
+
+</div>
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+
+<br/>
+
+### 🏅 SatyaSetu
+**🎯 Smart India Hackathon 2025**
+
+<img src="https://img.shields.io/badge/Status-Live-success?style=flat-square" />
+<img src="https://img.shields.io/badge/Build-Passing-brightgreen?style=flat-square" />
+
+---
+
+An intelligent credentialing platform with AI-powered document forensics and blockchain-based verification.
+
+**🔧 Tech Stack**
+```
+React • Node.js • AI/ML
+Blockchain • MongoDB
+```
+
+<br/>
+
+**🔗 Links**
+<p>
+<a href="https://satya-setu-frontend.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://github.com/PushkarJaiswal06/SatyaSetu" target="_blank">
+<img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+<br/>
+
+### 🎓 Vidyarthi-Hub
+**Learning Management System**
+
+<img src="https://img.shields.io/badge/Status-Live-success?style=flat-square" />
+<img src="https://img.shields.io/badge/Build-Passing-brightgreen?style=flat-square" />
+
+---
+
+Modern LMS with course catalogs, payment integration, and interactive learning modules.
+
+**🔧 Tech Stack**
+```
+React • Node.js • Express
+MongoDB • Razorpay
+```
+
+<br/>
+
+**🔗 Links**
+<p>
+<a href="https://www.vidyarthi-hub.xyz/" target="_blank">
+<img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://github.com/PushkarJaiswal06/Vidyarthi-Hub" target="_blank">
+<img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+<br/>
+
+### 🤖 AI SPARK MMMUT
+**Official Society Website**
+
+<img src="https://img.shields.io/badge/Status-Live-success?style=flat-square" />
+<img src="https://img.shields.io/badge/Build-Passing-brightgreen?style=flat-square" />
+
+---
+
+Official website for AI SPARK Center of Excellence with comprehensive admin panel.
+
+**🔧 Tech Stack**
+```
+React • Node.js • Express
+MongoDB • JWT Auth
+```
+
+<br/>
+
+**🔗 Links**
+<p>
+<a href="https://www.aispark.live" target="_blank">
+<img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://github.com/PushkarJaiswal06/AI-Lab" target="_blank">
+<img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+
+<br/>
+
+### 📧 Email Automation
+**High-Performance Bulk Email System**
+
+<img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
+
+---
+
+Bulk email system with real-time tracking, dynamic templates, and delivery analytics.
+
+**🔧 Tech Stack**
+```
+MERN Stack • Socket.IO
+Nodemailer • Redis
+```
+
+<br/>
+
+**🔗 Links**
+<p>
+<a href="https://github.com/PushkarJaiswal06/PersonalisedEmailAutomation" target="_blank">
+<img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<br/>
+
+### 📂 Structify
+**🏆 TechFest IIT Bombay Finalist**
+
+<img src="https://img.shields.io/badge/Achievement-Finalist-gold?style=flat-square" />
+
+---
+
+ML-powered document classification system for automated organization with custom Python models.
+
+**🔧 Tech Stack**
+```
+Python • Node.js • ML
+Express.js • TensorFlow
+```
+
+<br/>
+
+**🔗 Links**
+<p>
+<a href="https://github.com/PushkarJaiswal06/ClassiFi" target="_blank">
+<img src="https://img.shields.io/badge/View_Code-4A90E2?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -121,19 +418,99 @@
 
 ---
 
-## 💼 Work Experience
+## 💼 Professional Experience
 
-**🚀 Software Developer @ Company Name**  
-*Jan 2023 - Present*
-- Developed and maintained scalable web applications serving 100K+ users
-- Optimized database queries reducing response time by 40%
-- Implemented CI/CD pipelines using GitHub Actions and Docker
+<table>
+<tr>
+<td width="30%" valign="top">
 
-**🔧 Software Engineer Intern @ Company Name**  
-*Jun 2022 - Dec 2022*
-- Built RESTful APIs using Node.js and Express
-- Collaborated with cross-functional teams in Agile environment
-- Contributed to open-source projects and documentation
+### 🚀 Flytium Drones
+**Full Stack Developer**  
+*Freelance*
+
+📅 Oct 2024 - Present  
+📍 Remote
+
+<br/>
+
+**Tech Stack:**
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</p>
+
+</td>
+<td width="70%" valign="top">
+
+<br/>
+
+**Key Achievements:**
+
+✅ **Website Transformation**
+- Redeveloped company website from ground up with modern, animated UI/UX
+- Enhanced brand presence through highly responsive design
+- Improved user engagement by 60% with interactive elements
+
+✅ **Backend Architecture**
+- Engineered secure and scalable backend infrastructure
+- Built comprehensive admin panel for content, user & order management
+- Implemented role-based access control and data security measures
+
+✅ **Payment Integration**
+- Integrated and fixed payment gateway issues
+- Ensured seamless transaction processing
+- Reduced payment failures by 85%
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="30%" valign="top">
+
+### 🔬 AI SPARK MMMUT
+**Executive Member**  
+*Technical Lead*
+
+📅 Dec 2023 - Present  
+📍 MMMUT, Gorakhpur
+
+<br/>
+
+**Tech Stack:**
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</p>
+
+</td>
+<td width="70%" valign="top">
+
+<br/>
+
+**Key Contributions:**
+
+✅ **Platform Development**
+- Led development of official AI Spark society website
+- Created full-stack platform for event management and member profiles
+- Built project showcase system with real-time updates
+
+✅ **Community Building**
+- Organized 15+ workshops, hackathons, and tech talks
+- Fostered innovation culture within university
+- Increased society membership by 200%
+
+✅ **Mentorship**
+- Mentored 50+ junior members in web development
+- Conducted hands-on coding sessions and problem-solving workshops
+- Helped students build 20+ projects from scratch
+
+</td>
+</tr>
+</table>
 
 ---
 

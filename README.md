@@ -395,16 +395,6 @@ Express.js • TensorFlow
 
 ---
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Building Scalable Microservices with Node.js](https://yourblog.com/post1)
-- [Mastering React Hooks: A Complete Guide](https://yourblog.com/post2)
-- [Docker Best Practices for Production](https://yourblog.com/post3)
-- [System Design Interview Questions](https://yourblog.com/post4)
-<!-- BLOG-POST-LIST:END -->
-
----
 
 ## 💼 Professional Experience
 

@@ -83,7 +83,9 @@ fun_fact: "I debug code faster than my life decisions 😄"
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PushkarJaiswal06&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/>
 </p>
-
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PushkarJaiswal06&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+</p>
 </td>
 </tr>
 </table>
@@ -125,17 +127,6 @@ fun_fact: "I debug code faster than my life decisions 😄"
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PushkarJaiswal06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PushkarJaiswal06&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
-</p>
-
-
 
 ---
 

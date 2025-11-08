@@ -395,10 +395,10 @@ Express.js • TensorFlow
 
 ### 🚀 Flytium Drones
 **Full Stack Developer**  
-*Freelance*
+*Internship*
 
-📅 Oct 2024 - Present  
-📍 Remote
+📅 Oct 2025 - Present  
+📍 On-Site - MMMUT,Gorakhpur
 
 <br/>
 
@@ -407,6 +407,13 @@ Express.js • TensorFlow
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</p>
+
+<br/>
+
+**Internship Offer Letter:**
+<p align="center">
+  <img src="https://res.cloudinary.com/dsg5tzzdg/image/upload/v1762622452/Screenshot_2025-11-08_225021_yqnauy.png" alt="Flytium Drones Internship Offer Letter" width="260"/>
 </p>
 
 </td>
@@ -443,7 +450,7 @@ Express.js • TensorFlow
 **Executive Member**  
 *Technical Lead*
 
-📅 Dec 2023 - Present  
+📅 Jul 2025 - Present  
 📍 MMMUT, Gorakhpur
 
 <br/>

@@ -224,7 +224,7 @@ fun_fact: "I debug code faster than my life decisions 😄"
 <br/>
 
 ### 🏅 SatyaSetu
-**🎯 Smart India Hackathon 2025**
+**🎯 Smart India Hackathon 2025 Finalist**
 
 <img src="https://img.shields.io/badge/Status-Live-success?style=flat-square" />
 <img src="https://img.shields.io/badge/Build-Passing-brightgreen?style=flat-square" />

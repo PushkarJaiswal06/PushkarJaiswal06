@@ -147,21 +147,22 @@ fun_fact: "I debug code faster than my life decisions 😄"
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🏆_FEATURED-Social_Verse-0080ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🏆_FEATURED-SatyaSetu-0080ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🥇_SIH_2025_WINNER-FFD700?style=for-the-badge" />
 </p>
 
-## 🎮 Social Verse
+## 🏅 SatyaSetu
 
-*A real-time 2D multiplayer social platform for universities and communities*
+*An intelligent credentialing platform with AI-powered document forensics and blockchain-based verification*
 
 <br/>
 
 **🔗 Links**
 <p align="center">
-<a href="https://social-verse-frontend.vercel.app/" target="_blank">
+<a href="https://satya-setu-frontend.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/🌐_Live_Demo-FF6B6B?style=for-the-badge" />
 </a>
-<a href="https://github.com/PushkarJaiswal06/Social_Verse" target="_blank">
+<a href="https://github.com/PushkarJaiswal06/SatyaSetu" target="_blank">
 <img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github" />
 </a>
 </p>
@@ -170,8 +171,8 @@ fun_fact: "I debug code faster than my life decisions 😄"
 <p align="center">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Phaser-6E39CC?style=for-the-badge&logo=phaser&logoColor=white" />
-<img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain.com&logoColor=white" />
 </p>
 
 </td>
@@ -181,29 +182,30 @@ fun_fact: "I debug code faster than my life decisions 😄"
 
 **✨ Key Features**
 
-🎥 **Proximity-Based Video Chat**
-- Real-time video communication triggered by player proximity
-- Seamless WebRTC integration for low-latency calls
+🔍 **AI-Powered Document Forensics**
+- Advanced ML models for detecting forged documents
+- Real-time authenticity verification with 98%+ accuracy
+- Multi-format support (PDF, images, certificates)
 
-🕹️ **Interactive 2D World**
-- Phaser-powered game engine for smooth character movements
-- Multiple interactive zones and collaborative spaces
-- Custom avatar system with real-time synchronization
+⛓️ **Blockchain Verification**
+- Immutable credential storage on blockchain
+- Tamper-proof verification system
+- Decentralized trust architecture
 
-⚡ **Multiplayer Architecture**
-- Colyseus state management for multiplayer sync
-- Handles 100+ concurrent users per room
-- Optimized network protocol for minimal latency
+🎯 **Smart Credential Management**
+- Automated document classification
+- Secure digital credential issuance
+- QR-based instant verification
 
-🎨 **Modern Design**
-- Pixel-perfect UI/UX design
-- Responsive across all devices
-- Dark/Light theme support
+🏛️ **Institutional Integration**
+- University/Organization onboarding portal
+- Bulk credential issuance system
+- API integration for third-party systems
 
-🔐 **Secure & Scalable**
-- JWT-based authentication
-- MongoDB for persistent data storage
-- Scalable microservices architecture
+🔐 **Enterprise Security**
+- End-to-end encryption
+- Role-based access control
+- Comprehensive audit trails
 
 </td>
 </tr>
@@ -223,30 +225,30 @@ fun_fact: "I debug code faster than my life decisions 😄"
 
 <br/>
 
-### 🏅 SatyaSetu
-**🎯 Smart India Hackathon 2025 Finalist**
+### � Social Verse
+**🌐 2D Multiplayer Social Platform**
 
 <img src="https://img.shields.io/badge/Status-Live-success?style=flat-square" />
 <img src="https://img.shields.io/badge/Build-Passing-brightgreen?style=flat-square" />
 
 ---
 
-An intelligent credentialing platform with AI-powered document forensics and blockchain-based verification.
+A real-time 2D multiplayer social platform for universities and communities with proximity-based video chat.
 
 **🔧 Tech Stack**
 ```
-React • Node.js • AI/ML
-Blockchain • MongoDB
+React • Node.js • Phaser
+WebRTC • Colyseus
 ```
 
 <br/>
 
 **🔗 Links**
 <p>
-<a href="https://satya-setu-frontend.vercel.app/" target="_blank">
+<a href="https://social-verse-frontend.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-<a href="https://github.com/PushkarJaiswal06/SatyaSetu" target="_blank">
+<a href="https://github.com/PushkarJaiswal06/Social_Verse" target="_blank">
 <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </p>
@@ -492,10 +494,8 @@ Express.js • TensorFlow
 
 ## 🎓 Certifications & Achievements
 
-- 🏅 **AWS Certified Solutions Architect - Associate**
-- 🏅 **Google Cloud Professional Developer**
-- 🏅 **LeetCode Rating:** 1800+ | **Solved:** 500+ problems
-- 🏅 **Hackathon Winner:** [Event Name] - 1st Place
+- 🥇 **Smart India Hackathon 2025 Winner** - SatyaSetu (National Level)
+- 🏅 **TechFest IIT Bombay Finalist** - Structify
 - 🏅 **Open Source Contributor:** 50+ PRs merged across various projects
 
 ---

@@ -10,6 +10,20 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&width=500&lines=Full+Stack+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9;Tech+Enthusiast+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%8C%9F;Always+Learning+%26+Growing+%F0%9F%93%88" alt="Typing SVG" />
 
+<br/>
+
+<div align="center">
+  
+### 🏆 **SMART INDIA HACKATHON 2025 NATIONAL WINNER** 🏆
+
+<img src="https://img.shields.io/badge/🥇_SIH_2025-NATIONAL_WINNER-FFD700?style=for-the-badge&labelColor=000000" />
+
+*Honored to win India's biggest Open Innovation Model driving citizen-centric solutions*
+
+</div>
+
+<br/>
+
 ### 🚀 Full-Stack Developer | Building Scalable Solutions
 
 > *Passionate about crafting elegant code and solving complex problems*
@@ -22,15 +36,25 @@
 name: Pushkar Jaiswal
 role: Full-Stack Developer
 location: India
+achievements:
+  - 🏆 Smart India Hackathon 2025 National Winner
+  - 🤖 AI SPARK MMMUT Executive Member (Technical Lead)
+  - 🏅 TechFest IIT Bombay Finalist
 current_focus: 
-  - Building scalable web applications
-  - Exploring cloud technologies
-  - Contributing to open source
+  - Building AI-powered intelligent systems
+  - Blockchain & Web3 technologies
+  - Scalable full-stack applications
+  - Cloud & DevOps automation
 learning: 
-  - Advanced System Design
-  - Kubernetes & DevOps
-  - AI/ML Integration
-collaboration: "Always open to innovative projects!"
+  - Advanced AI/ML & Deep Learning
+  - System Design & Architecture
+  - Kubernetes & Microservices
+  - Smart Contract Development
+specialization:
+  - AI/ML Integration in Web Apps
+  - Document Forensics & Security
+  - Real-time Multiplayer Systems
+collaboration: "Always open to innovative projects & hackathons!"
 fun_fact: "I debug code faster than my life decisions 😄"
 ```
 
